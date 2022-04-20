@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to The World of Persona 3
+owned by Kent Michael I. Agravante
 
-You can use the [editor on GitHub](https://github.com/Kenth11037/Kenth11037.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![This is the cover art for Persona 3 on Playstation 2](https://upload.wikimedia.org/wikipedia/en/4/47/Persona3cover.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Intro to Persona 3
+Persona 3 is a Playstation 2 video game released on 2006 in Japan, and later released outside Japan in 2007. Persona 3 is a turn-based role playing game mixed with daily high school life. In the day, you play as a normal high school student but at midnight, you fight beings called shadows wiht the power of the persona in order to progress through the tower the shadows reside in and learn more about the mysterious tower.
 
-### Markdown
+### The Beginning of Persona 3
+In Persona 3, the protagonist comes to Tatsumi Port Island to transfer to Gekkoukan High. At his dorm, he comes to know about mysterious things happening on the island. Firstly, when the clock strikes 12, A phenomena called the Dark Hour will happen. It is a hidden hour that comes after 12 midnight, and where the enemy, shadows, run rampant. During the Dark hour, a tower will appear in place of Gekkoukan High named Tartarus, and it is there where the shadows arise. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To fight shadows, the protagonist uses a power called persona. A persona is a manifestation of a person's personality for an individual to use to face hardship. Only few people can enter the Dark Hour, and if they are unable to awaken to a persona, that person will hear a voice calling them to come to Tartarus and if they are left in there for too long, they may fall ill to Apathy Syndrome. 
 
-```markdown
-Syntax highlighted code block
+Apathy Syndrome is an illness happening to people Tatsumi Port Island in which that person experiences debilitating levels of apathy. The protagonist is told about these things by the other students iving in the dorm who are part of a group named Specialized Extracurricular Execution Squad or SEES, tasked with eliminating shadows and destroying the Dark Hour.
 
-# Header 1
-## Header 2
-### Header 3
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNNm-t1CttLE5R2Hs0jeIp1kIFywc_U8F1DMVj4ZfsQi9Ms7zX_I3WaRaHXaBY5SaY0y0&usqp=CAU)
 
-- Bulleted
-- List
+### Gameplay of Persona 3
+As you play through the protagonist's high school life, you will form bonds with people around you or increase your social stats to be able to form more bonds with more people. These bonds are called Social Links, and they will strengthen the protagonist's persona. Since the persona is a materialization of someone's personality, if you spend time with other people and learn from their views and morals, you are able to grow as a person and personality and that is why Social Links are important. The characters in the social links have their own interesting stories (most of the time) and it also makes them grow as a person (most of the time) with the help of the protagonist. In the Dark Hour is where the traditional Japanese role playing game things happen. 
 
-1. Numbered
-2. List
+You fight shadows by summoning your persona and taking turns with the enemies and your party members, which means you have to strategize you attacks to survive the enemies' attacks and to eliminate them.
 
-**Bold** and _Italic_ and `Code` text
+![](https://sm.ign.com/t/ign_in/video/p/pick-a-card-any-card/pick-a-card-any-card_fp1g.640.jpg)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kenth11037/Kenth11037.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Themes of Persona 3
