@@ -21,5 +21,3 @@ As you play through the protagonist's high school life, you will form bonds with
 You fight shadows by summoning your persona and taking turns with the enemies and your party members, which means you have to strategize you attacks to survive the enemies' attacks and to eliminate them.
 
 ![](https://sm.ign.com/t/ign_in/video/p/pick-a-card-any-card/pick-a-card-any-card_fp1g.640.jpg)
-
-### Themes of Persona 3
